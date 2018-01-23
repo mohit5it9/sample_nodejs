@@ -9,7 +9,8 @@ env:
 
 build:
   ci:
-    - npm install
-    - npm test
-    - npm test1
+    #- npm install
+    #- npm test
+    #- npm test1
+    - echo "hello"
 
