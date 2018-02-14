@@ -13,4 +13,5 @@ build:
     #- npm test
     #- npm test1
     - echo "hello"
-
+    - echo "test some new commands"
+    - echo ls
