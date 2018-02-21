@@ -3,7 +3,7 @@ language: node_js
 node_js:
   #- 0.12
   - 5.0.0
-service:
+services:
   - mysql
 env:
   - XUNIT_FILE=shippable/testresults/result.xml
